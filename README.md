@@ -12,5 +12,5 @@ Selected analyses are summarized or rewritten in English.
 - More titles coming...
 
 ## About Me
-Undergraduate student with engineering background,
+Undergraduate engineering student of SJTU ECE + Umich IOE dual degrees,
 currently preparing for a gameplay / system design career.
